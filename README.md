@@ -1,0 +1,132 @@
+# AI-Based Career Guidance System for Students
+
+## 🧠 Project Overview
+
+This project is an **AI-powered web application** designed to help students receive personalized **career guidance and recommendations** based on their academic background, interests, and skillsets.
+It uses **machine learning models** and **natural language processing (NLP)** to analyze user inputs and suggest suitable career paths, courses, and learning resources.
+
+---
+
+## 🎯 Objectives
+
+* Provide AI-driven career recommendations.
+* Help students discover their strengths and interests.
+* Offer a chatbot-based interactive experience.
+* Suggest skill-building paths, courses, and job roles.
+* Simplify decision-making for academic and career planning.
+
+---
+
+## ⚙️ Technologies Used
+
+**Frontend:**
+
+* React.js
+* HTML, CSS, JavaScript
+
+**Backend:**
+
+* Python (Flask / FastAPI)
+* Machine Learning Model (Scikit-learn / TensorFlow)
+
+**Database:**
+
+* SQLite / MongoDB
+
+**Other Tools:**
+
+* VS Code
+* GitHub
+* API Integration for chatbot
+* Power BI (optional dashboard analytics)
+
+---
+
+## 🧬 Features
+
+* 🧑‍💼 AI-based chatbot for real-time guidance
+* 📊 Personalized career recommendation system
+* 🧠 Student profile creation and management
+* 🏩 Academic performance & interests analyzer
+* 🗂️ Career suggestions with course roadmap
+* 🔍 Interactive and user-friendly dashboard
+* 🌐 End-to-end integrated web application
+
+---
+
+## 🚀 How to Run the Project
+
+### **1. Backend Setup**
+
+```bash
+cd career_guidance_backend
+pip install -r requirements.txt
+python app.py
+```
+
+Backend will start at **[http://127.0.0.1:5000/](http://127.0.0.1:5000/)**
+
+### **2. Frontend Setup**
+
+```bash
+cd career_guidance_frontend
+npm install
+npm start
+```
+
+Frontend will start at **[http://localhost:3000/](http://localhost:3000/)**
+
+---
+
+## 📁 Folder Structure
+
+```
+career_guidance_system/
+│
+├── career_guidance_backend/
+│   ├── app.py
+│   ├── model/
+│   ├── static/
+│   ├── templates/
+│   └── requirements.txt
+│
+├── career_guidance_frontend/
+│   ├── src/
+│   ├── public/
+│   ├── package.json
+│   └── README.md
+│
+└── README.md
+```
+
+---
+
+## 📸 Screenshots 
+
+Example:
+
+```
+<br>![MixCollage-07-Nov-2025-12-46-PM-9865](https://github.com/user-attachments/assets/84bd17da-3b77-4e64-b293-0e1e3b5b9fe5)<br>
+
+![Homepage](screenshots/homepage.png)
+![Chatbot](screenshots/chatbot.png)
+![Dashboard](screenshots/dashboard.png)
+```
+
+---
+
+## 🧪 Future Enhancements
+
+* Integration with LinkedIn or job APIs for live job suggestions
+* Adding AI resume analyzer
+* Multi-language support
+* Personalized email or SMS alerts
+
+---
+
+## 👩‍💻 Author
+
+**Soundarya G M**
+B.Tech – Artificial Intelligence and Machine Learning
+Srinivas University Institute of Engineering and Technology
+
