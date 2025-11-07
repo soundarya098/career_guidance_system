@@ -106,10 +106,10 @@ career_guidance_system/
 Example:
 
 ```
-<br> <img width="814" height="603" alt="Screenshot 2025-11-07 123110" src="https://github.com/user-attachments/assets/e70e4c64-ced6-4034-a8d7-d738b63d2e6a" /> <br>
-<br> <img width="776" height="929" alt="Screenshot 2025-11-07 123215" src="https://github.com/user-attachments/assets/ea3687dc-8ec4-4314-8139-571155e93dbd" /> <br>
-<br> <img width="776" height="553" alt="Screenshot 2025-11-07 123233" src="https://github.com/user-attachments/assets/30f427d3-33b8-4125-b80f-abb386e5660f" /> <br>
-<br> <img width="779" height="527" alt="Screenshot 2025-11-07 123252" src="https://github.com/user-attachments/assets/3d5e8a5c-b705-4318-b7b3-a782177b245a" /> <br>
+<br> <img width="814" height="603" alt="Screenshot 2025-11-07 123110" src="https://github.com/user-attachments/assets/e70e4c64-ced6-4034-a8d7-d738b63d2e6a" /> </br>
+<br> <img width="776" height="929" alt="Screenshot 2025-11-07 123215" src="https://github.com/user-attachments/assets/ea3687dc-8ec4-4314-8139-571155e93dbd" /> </br>
+<br> <img width="776" height="553" alt="Screenshot 2025-11-07 123233" src="https://github.com/user-attachments/assets/30f427d3-33b8-4125-b80f-abb386e5660f" /> </br>
+<br> <img width="779" height="527" alt="Screenshot 2025-11-07 123252" src="https://github.com/user-attachments/assets/3d5e8a5c-b705-4318-b7b3-a782177b245a" /> </br>
 ---
 
 ## 🧪 Future Enhancements
