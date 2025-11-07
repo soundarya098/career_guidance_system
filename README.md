@@ -106,7 +106,7 @@ career_guidance_system/
 Example:
 
 ```
-<br>![MixCollage-07-Nov-2025-12-46-PM-9865](https://github.com/user-attachments/assets/84bd17da-3b77-4e64-b293-0e1e3b5b9fe5)<br>
+<br>C:\Users\user\Downloads\MixCollage-07-Nov-2025-12-46-PM-9865.jpg<br>
 
 ![Homepage](screenshots/homepage.png)
 ![Chatbot](screenshots/chatbot.png)
