@@ -106,12 +106,7 @@ career_guidance_system/
 Example:
 
 ```
-<br>C:\Users\user\Downloads\MixCollage-07-Nov-2025-12-46-PM-9865.jpg<br>
-
-![Homepage](screenshots/homepage.png)
-![Chatbot](screenshots/chatbot.png)
-![Dashboard](screenshots/dashboard.png)
-```
+<br><img width="908" height="896" alt="Screenshot 2025-11-07 125123" src="https://github.com/user-attachments/assets/b3ca145b-df56-43dc-861e-59185eed693c" /><br>
 
 ---
 
